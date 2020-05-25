@@ -7,4 +7,7 @@ package com.company;
  * @Company: zkzj
  **/
 public class Test {
+    public Test() {
+
+    }
 }
